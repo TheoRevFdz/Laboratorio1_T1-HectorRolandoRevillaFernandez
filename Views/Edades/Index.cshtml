@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    const int mayoriaEdad = 18;
+    Persona juan = new Persona(21, "Juan");
+    Persona pedro = new Persona(14, "Pedro");
+
+    string validarEdad(Persona persona)
+    {
+        if(persona.Edad >= mayoriaEdad)
+        {
+            return $"{persona.Nombre} es mayor de edad";
+        }
+        int edadRestante = mayoriaEdad - persona.Edad;
+        return $"{persona.Nombre} es menor de edad, le faltan {edadRestante} para cumplir {mayoriaEdad}";
+    }
+
+    string getStyleForEdad(int edad)
+    {
+        return edad >= 18 ? "text-primary" : "text-danger";
+    }
+}
+
+<div class="text-justify">
+    <h4 class="@getStyleForEdad(juan.Edad)">@validarEdad(juan)</h4>
+    <h4 class="@getStyleForEdad(pedro.Edad)">@validarEdad(pedro)</h4>
+</div>

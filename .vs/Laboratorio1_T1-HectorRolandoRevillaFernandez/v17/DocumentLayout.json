@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:controllers\\ventascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:models\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\ventas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\controllers\\edadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:controllers\\edadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\ventas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\ventas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\ventas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\ventas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\views\\edades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:views\\edades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|d:\\docs\\ws_docs\\ws_net\\laboratorio1_t1-hectorrolandorevillafernandez\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAE3166-BB12-4A93-94FE-AA0391727F75}|Laboratorio1_T1-HectorRolandoRevillaFernandez.csproj|solutionrelative:models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Edit.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwBwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:48:52.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Details.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Details.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Details.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:48:42.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Delete.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Delete.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAvwB0AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:48:30.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Create.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Create.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAvwBsAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:48:16.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAADAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-13T08:36:44.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ventas\\Index.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Ventas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ventas\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:35:25.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VentasController.cs",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Controllers\\VentasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VentasController.cs",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Controllers\\VentasController.cs",
+              "RelativeToolTip": "Controllers\\VentasController.cs",
+              "ViewState": "AQIAAHYAAAAAAAAAAAAuwJwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:31:42.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EdadesController.cs",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Controllers\\EdadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EdadesController.cs",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Controllers\\EdadesController.cs",
+              "RelativeToolTip": "Controllers\\EdadesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:00:19.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Models\\Ventas.cs",
+              "RelativeDocumentMoniker": "Models\\Ventas.cs",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Models\\Ventas.cs",
+              "RelativeToolTip": "Models\\Ventas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T08:14:00.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:35:17.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T08:35:13.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Persona.cs",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Models\\Persona.cs",
+              "RelativeToolTip": "Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-13T06:14:02.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T05:58:15.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Edades\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Edades\\Index.cshtml",
+              "ToolTip": "D:\\Docs\\WS_Docs\\WS_Net\\Laboratorio1_T1-HectorRolandoRevillaFernandez\\Views\\Edades\\Index.cshtml",
+              "RelativeToolTip": "Views\\Edades\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-13T05:57:59.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
